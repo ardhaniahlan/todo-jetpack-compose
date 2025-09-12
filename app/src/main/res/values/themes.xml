@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <style name="Theme.Todo" parent="android:Theme.Material.Light.NoActionBar" />
+
+    <style name="Theme.MySplashScreen" parent="Theme.SplashScreen">
+        <!-- Splash transparan -->
+        <item name="windowSplashScreenBackground">@android:color/transparent</item>
+
+        <!-- Icon transparan -->
+        <item name="windowSplashScreenAnimatedIcon">@mipmap/ic_empty</item>
+
+        <!-- Lanjut ke tema utama -->
+        <item name="postSplashScreenTheme">@style/Theme.Todo</item>
+    </style>
+
+
+</resources>
