@@ -22,4 +22,4 @@ Dilengkapi fitur manajemen tugas dengan tag, pencatatan tanggal jatuh tempo, ser
 - Material Design 3
 - GitHub Actions (CI/CD)
 
-![Todo Aplikasi](https://github.com/ardhaniahlan/todo-jetpack-compose/blob/master/todo.gif)
+<img src="https://github.com/ardhaniahlan/todo-jetpack-compose/blob/master/todo.gif" width="300" alt="Todo Aplikasi">
